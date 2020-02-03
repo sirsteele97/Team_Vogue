@@ -1,2 +1,0 @@
-- name: github-action-tester
-  uses: skx/github-action-tester@release-0.10
